@@ -1,6 +1,6 @@
 # Call Center Ticketing Management Dashboard (Power BI) 
 
-**Dashboard Preview Link:** 
+**Dashboard Video Link:** 
 
 https://drive.google.com/file/d/1SROScrd_gaYHQp-uBfnuAM5s6OJKm3do/view?usp=sharing
 
