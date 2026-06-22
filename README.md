@@ -4,6 +4,10 @@
 
 https://drive.google.com/file/d/1SROScrd_gaYHQp-uBfnuAM5s6OJKm3do/view?usp=sharing
 
+----
+<img width="1331" height="747" alt="Dashboard image" src="https://github.com/user-attachments/assets/815bbe14-607e-4fe1-b44e-f2715ab09387" />
+
+----
 ## Project Overview
 
 This project is based on a **call center ticketing management portal dataset**.
